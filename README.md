@@ -7,3 +7,7 @@
 - 💻 热衷于 Minecraft 服务器管理
 - 🌱 对编程充满热情，特别是 Kotlin、Java 和 Javascript
 - 🕹️ 喜欢在 NMRiH 中挑战自己的游戏技能
+
+![q210520993](https://github-readme-stats.vercel.app/api?username=q210520993&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q210520993&layout=compact)](https://github.com/q21052093)
