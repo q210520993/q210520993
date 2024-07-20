@@ -41,7 +41,8 @@
 - 💻 热衷于 Minecraft 服务器管理、服务器核心制作
 - 🌱 对编程充满热情，热爱 Kotlin、Java 和 Javascript
 - 🕹️ 喜欢在 NMRiH 中挑战自己的游戏技能
+- 📫 你可以在210520993@qq.com联系我
 
-![q210520993](https://github-readme-stats.vercel.app/api?username=q210520993&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q210520993&layout=compact)](https://github.com/q21052093)
+<a href="https://count.getloli.com/get/@Glomzzz?theme=rule34" target="_blank">
+    <img align="right" alt="Glomzzz's getloli" src="https://count.getloli.com/get/@Glomzzz?theme=rule34"/>
+</a>
