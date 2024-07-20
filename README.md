@@ -43,6 +43,6 @@
 - 🕹️ 喜欢在 NMRiH 中挑战自己的游戏技能
 - 📫 你可以在210520993@qq.com联系我
 
-<a href="[https://count.getloli.com/get/@Glomzzz?theme=rule34](https://count.getloli.com/get/@q210520993?theme=gelbooru)" target="_blank">
-    <img align="right" alt="q210520993's getloli" src="[https://count.getloli.com/get/@q210520993?theme=rule34](https://count.getloli.com/get/@q210520993?theme=gelbooru)"/>
+<a href="https://count.getloli.com/get/@q210520993?theme=gelbooru" target="_blank">
+    <img align="right" alt="q210520993's getloli" src="https://count.getloli.com/get/@q210520993?theme=gelbooru"/>
 </a>
