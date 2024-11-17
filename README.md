@@ -34,14 +34,14 @@
     <img align="right" alt="Glomzzz's Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q210520993&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent&hide_border=true&hide=html,css"/>
 </a>
 
-我是一名即将升入高一的学生，热爱 Minecraft 服务器管理和编程。主要使用 Kotlin、Java 和 Javascript ，同时对 NMRiH（No More Room in Hell）也有浓厚的兴趣。
+I am an upcoming high school freshman with a passion for managing Minecraft servers and programming. I primarily use Kotlin, Java, and JavaScript, and I also have a keen interest in NMRiH (No More Room in Hell).
 
-#### 关于我：
-- 🎓 即将升入高中一年级
-- 💻 热衷于 Minecraft 服务器管理、服务器核心制作
-- 🌱 对编程充满热情，热爱 Kotlin、Java 和 Javascript
-- 🕹️ 喜欢在 NMRiH 中挑战自己的游戏技能
-- 📫 你可以在210520993@qq.com联系我
+#### About Me:
+- 🎓 I'm about to start my first year of high school.
+- 💻 I'm passionate about managing Minecraft servers and creating server cores.
+- 🌱 I have a strong interest in programming and love working with Kotlin, Java, and JavaScript.
+- 🕹️ I enjoy challenging my gaming skills in NMRiH (No More Room in Hell).
+- 📫 You can reach me at 210520993@qq.com.
 
 <a href="https://count.getloli.com/get/@q210520993?theme=gelbooru" target="_blank">
     <img align="right" alt="q210520993's getloli" src="https://count.getloli.com/get/@q210520993?theme=gelbooru"/>
